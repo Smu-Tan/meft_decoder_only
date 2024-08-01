@@ -1,5 +1,5 @@
 # MEFT for Decoder-only Model
-Official code (Decoder-only Model Part) for paper **[Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning](https://arxiv.org/abs/2306.00477)**
+The repository of the Decoder-only Model Part for paper **[Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning](https://arxiv.org/abs/2306.00477)**
 
 Code for the other tasks such as Encoder-Only models can be found at [here](https://github.com/BaohaoLiao/mefts).
 
